@@ -1,4 +1,4 @@
-//Eu tinha combinado com o grupo de fazer uma verificação para os casos do número 9 e 0 e letras A, B, Y, Z, porém por uma gestão de tempo decidi para fazer a verificação no final e não deu tempo
+//Eu tinha combinado com o grupo de fazer uma verificação para os casos do número 9 e 0 e letras A, B, Y, Z, porém por uma gestão de tempo decidi para gifazer a verificação no final e não deu tempo
 
 import React, { useState } from 'react';
 
